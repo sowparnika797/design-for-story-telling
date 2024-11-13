@@ -1,0 +1,166 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Echoes of History in Modern Architecture</title>
+    <style>
+        /* Center align the main heading and subheading */
+        h1, h2 {
+            text-align: center;
+        }
+
+        /* Style "By Sowparnika" to be centered and bold */
+        .author {
+            text-align: center;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        /* Style the image container to display images side by side */
+        .image-container {
+            display: flex;
+            justify-content: space-between;
+            margin: 20px 0;
+        }
+
+        /* Style each image within the container */
+
+
+        
+        .image-container img {
+            width: 20%; /* Adjusts the width of each image */
+            height: auto; /* Keeps the original aspect ratio */
+            border-radius: 8px; /* Optional: adds rounded corners */
+        }
+    </style>
+</head>
+<body>
+    <!-- Main Headline -->
+    <h1>Echoes of History in Modern Architecture</h1>
+
+    <!-- Author Information -->
+    <section>
+        <p class="author">By Sowparnika Vallatharasu</p>
+        
+        <!-- Image Container with Four Side-by-Side Images -->
+        <div class="image-container">
+            <img src="building 1.png" alt="Image 1 dscription">
+
+            <img src="building 2.png" alt="Image 2 description">
+            <img src="building 3.png" alt="Image 3 description">
+            <img src="building 4.png" alt="Image 4 description">
+        </div>
+    </section>
+
+    <!-- First Paragraph below Main Headline -->
+    <p>Boston’s architectural history began in the early 17th century, making it one of the oldest cities in the United States. With over 100 structures listed on the National Register of Historic Places, including the Massachusetts State House and the historic North End featuring colonial-era buildings, Boston showcases its commitment to preserving its architectural legacy. The city is home to nearly 300 designated “Boston Landmarks,” which showcase a diverse range of styles, from the stately Georgian designs to the bold lines of modernist architecture. Each structure serves as a testament to the city’s evolving narrative, inviting residents and visitors alike to explore its layered history.</p>
+    
+    <p>As the city’s historical backdrop remains a significant draw, Boston’s population surged past 700,000 by the 2020 census, intensifying demand for housing and commercial spaces. This demographic growth has ushered in a wave of modern developments, including ambitious projects like the Millennium Tower and the revitalization of the Seaport District. These modern initiatives reflect the city’s drive for innovation and progress, yet they raise critical concerns about the potential erosion of Boston’s historical character. The juxtaposition of sleek skyscrapers against the backdrop of centuries-old buildings poses questions about identity and heritage, prompting discussions about how best to honor the past while accommodating contemporary needs.</p>
+
+    <p>The challenge of reconciling preservation with development is an ongoing endeavor, and the Boston Zoning Commission plays a crucial role in navigating this complex landscape. Recent initiatives, such as the “Boston 2030” plan, aim to guide sustainable growth while ensuring that historic neighborhoods are not only preserved but also celebrated. This proactive approach emphasizes the importance of integrating new developments with existing architectural treasures, striving for a harmonious coexistence that respects the city’s rich past. It recognizes that the character of Boston is not solely defined by its historic structures, but also by the dynamic interactions between old and new.</p>
+
+    <div class="image-container">
+        <img src="building 5.jpg" alt="Historic Neighborhood" >
+        <img src="building 6.jpg" alt="Modern Development" >
+        <img src="building 7.jpg" alt="Historic Neighborhood" >
+        <img src="building 8.jpg" alt="Modern Development" >
+    </div>
+    
+    <!-- Body Content: Perspectives from Different Voices -->
+     <p>Boston’s architectural landscape is a dynamic blend of historical preservation and modern development, with local experts highlighting the importance of balancing growth with community values. Architects, planners, and residents alike stress the need for thoughtful design that honors Boston’s heritage while addressing the city’s evolving needs.  </p>
+    
+     <p>Marie Adams, a registered architect in Massachusetts and Professor at Northeastern, highlights Boston’s architectural diversity, noting that each neighborhood reflects its unique historical contexts and building styles. She cites Back Bay as a well-preserved area, contrasting it with the Seaport, which has seen significant changes due to urban renewal. “We need to engage deeply with the context of each neighborhood,” she asserts, emphasizing the need for new developments to relate to Boston’s character.  .</p>
+    
+    <p>Adams stresses community involvement in design, stating, “It’s crucial for local voices to shape projects, especially those needing approval from the Boston Planning and Development Authority.” Local representatives provide insights on building impact, while the Boston Civic Design Commission ensures alignment with neighborhood contexts. Looking forward, Adams calls for a proactive approach to housing and climate resilience, stressing that “Boston must prioritize public engagement and innovative planning.” Collaboration among architects, planners, and communities is vital. “It’s about honoring our rich history while ensuring new developments serve the community’s future,” she concludes, supporting urban design that balances preservation with modern needs.   </p>
+
+    <p>H. Killion Mokwete, Principal and co-founder of the Social Impact Collective (SIC) and an assistant professor at Northeastern, emphasizes the importance of Boston’s neighborhoods and the loss of their identities due to rising housing demands. He notes that new developments often clash with the character of existing areas, particularly in his work with the Roxbury Path Forward neighborhood association, which is dedicated to preserving Roxbury’s history.  </p>
+
+    <p>Roxbury has faced historical challenges like redlining, which hindered its development for years. After the end of these discriminatory practices, developers began flocking to the area to take advantage of its open spaces. While new housing is needed, the neighborhood association argues that such developments often overshadow the area’s historic buildings and cultural narratives.  One notable project Mokwete worked on involved a site once home to a Black Panther service center. The community collaborated with developers to install a plaque recognizing its historical significance. Mokwete also worked on preserving a downtown historic building from the 1800s, adding a rooftop deck while maintaining the building’s integrity. These efforts highlight the importance of integrating local histories into new developments.  Mokwete advocates for thoughtful design that honors neighborhood stories, ensuring that both emerging and established areas retain their unique legacies amid Boston’s urban growth.   </p>
+
+    <p>From a resident’s perspective, Matthew Carroll, a journalism professor at Northeastern University since the mid-1970s, has developed a deep appreciation for Boston’s architectural landscape, particularly admiring Trinity Church. He emphasizes Boston’s ability to balance new developments with the preservation of its historical heritage, which he believes is crucial for fostering a strong sense of community identity. Carroll notes the evolution of architectural styles in the city, particularly the rise of modern apartment complexes to accommodate a growing population.  Though he acknowledges challenges like housing affordability and traffic congestion, Carroll argues these issues don’t overshadow Boston’s appeal. He believes the city’s mix of history and innovation continues to attract residents and visitors alike. Additionally, Carroll is encouraged by improvements in the Massachusetts Bay Transportation Authority (MBTA) infrastructure, viewing the increased efficiency and user-friendliness as a positive step toward enhancing the quality of life and contributing to civic pride and community engagement.  
+        </p>
+
+    <p>Dan Zedek, a Professor of Practice at Northeastern’s School of Journalism, reflects on his 29 years living in Boston, where he developed a deep appreciation for the South End squares. He values their unique blend of old-world charm and modern vibe. While he admires the city’s preservation efforts, Zedek expresses concern that an overemphasis on tradition can lead to homogeneity in architectural design. He humorously says, “We definitely have enough brick!” to highlight the lack of variety and innovation in the city’s buildings.  If given the opportunity to redesign part of Boston, Zedek would focus on creating more interactive spaces and green areas, especially in the Seaport District. He envisions spaces that foster community engagement and interaction, enhancing the urban experience. Zedek also notes the broader impact of recent developments on issues like traffic congestion and housing affordability, stressing the importance of incorporating community input in the design process. 
+        </p>
+
+    <!-- Closing Remarks -->
+    <p>In conclusion, Boston’s architecture balances historical preservation with modern development. Experts stress the need for thoughtful, community-driven design that respects neighborhood identities while addressing the city’s growth. By blending preservation with innovation, Boston can thrive as an inclusive city, ensuring its architectural legacy endures. Collaboration among architects, planners, and residents is essential for shaping a future that honors the past.</p>
+
+    
+</body>
+</html>
+
+
+/* style.css */
+
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+/* Headline Styles */
+h1 {
+    font-size: 2.5em;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 1.8em;
+    color: #555;
+    text-align: center;
+    margin: 40px 0 20px;
+}
+
+/* Byline Style */
+.author {
+    text-align: center;
+    font-weight: bold;
+    color: #666;
+    margin-top: 10px;
+    font-style: italic;
+}
+
+/* Text Style for Article Content */
+p {
+    font-size: 1em;
+    margin: 15px 0;
+    color: #444;
+    line-height: 1.8;
+}
+
+/* Image Container */
+.image-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.image-container img {
+    width: 24%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Caption Style for Images */
+.caption {
+    font-size: 0.9em;
+    color: #777;
+    text-align: center;
+    margin-top: 5px;
+}
